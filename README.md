@@ -42,7 +42,7 @@ The model is trained on the **PIMA Indians Diabetes Dataset** and includes data 
 * Feature distributions
 * Scatter plots
 
-### 3. Model Building
+# 3. Model Building
 
 * Dense Neural Network
 * ReLU activation for hidden layers
