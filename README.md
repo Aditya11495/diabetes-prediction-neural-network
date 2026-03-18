@@ -76,26 +76,9 @@ The model is trained on the **PIMA Indians Diabetes Dataset** and includes data 
 * Use advanced models like Random Forest / XGBoost
 * Deploy model using Flask or Streamlit
 
----
 
-## 📁 Project Structure
-
-```
-diabetes-prediction-neural-network/
-│
-├── diabetes.csv
-├── diabetes_model.ipynb
-├── README.md
-```
-
----
-
-## 🎯 Conclusion
+# Conclusion
 
 This project demonstrates how neural networks can be applied to real-world healthcare problems like diabetes prediction.
 
----
 
-## ⭐ If you like this project
-
-Give it a star ⭐ on GitHub!
