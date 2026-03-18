@@ -56,14 +56,14 @@ The model is trained on the **PIMA Indians Diabetes Dataset** and includes data 
 
 ---
 
-## 📈 Results
+# Results
 
 * Achieved good accuracy on test data
 * Visualized training vs validation performance
 
 ---
 
-## 📊 Sample Graphs
+#  Sample Graphs
 
 * Accuracy Curve
 * Loss Curve
