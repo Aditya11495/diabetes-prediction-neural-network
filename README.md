@@ -36,7 +36,7 @@ The model is trained on the **PIMA Indians Diabetes Dataset** and includes data 
 * Feature scaling using StandardScaler
 * Train-test split
 
-### 2. Data Visualization
+# 2. Data Visualization
 
 * Correlation heatmap
 * Feature distributions
