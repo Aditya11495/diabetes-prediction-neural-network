@@ -6,7 +6,7 @@ The model is trained on the **PIMA Indians Diabetes Dataset** and includes data 
 
 ---
 
-## 📊 Features Used
+# Features Used
 
 * Pregnancies
 * Glucose
@@ -17,9 +17,8 @@ The model is trained on the **PIMA Indians Diabetes Dataset** and includes data 
 * Diabetes Pedigree Function
 * Age
 
----
 
-## ⚙️ Tech Stack
+# Tech Stack
 
 * Python
 * NumPy
@@ -28,9 +27,8 @@ The model is trained on the **PIMA Indians Diabetes Dataset** and includes data 
 * Scikit-learn
 * TensorFlow / Keras
 
----
 
-## 🔍 Workflow
+# Workflow
 
 ### 1. Data Preprocessing
 
