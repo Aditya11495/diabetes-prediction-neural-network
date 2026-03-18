@@ -69,9 +69,7 @@ The model is trained on the **PIMA Indians Diabetes Dataset** and includes data 
 * Loss Curve
 * Correlation Heatmap
 
----
-
-## 🚀 Future Improvements
+# Future Improvements
 
 * Hyperparameter tuning using Keras Tuner
 * Try different architectures
