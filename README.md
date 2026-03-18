@@ -30,7 +30,7 @@ The model is trained on the **PIMA Indians Diabetes Dataset** and includes data 
 
 # Workflow
 
-### 1. Data Preprocessing
+# 1. Data Preprocessing
 
 * Checked missing values
 * Feature scaling using StandardScaler
